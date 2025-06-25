@@ -16,5 +16,5 @@ runtime:
 
 ui:
   bundle:
-    url: https://github.com/NavinaHeuler/promanage-docs/blob/main/src/ui-bundle.zip
+    url: C:\Documentation\promanage-docs\src\ui-bundle
     snapshot: true
