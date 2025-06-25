@@ -1,0 +1,4 @@
+Weitere Informationen, siehe
+xref:Initialschätzung_setzen.adoc[]
+
+image::../../Images/add.png[]

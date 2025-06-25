@@ -1,0 +1,20 @@
+= Ansicht hinzufügen
+
+*Voraussetzungen*
+
+* ProManager ist installiert
+* Benutzer ist angelegt
+
+*Vorgehen*
+
+. Pro Manager öffnen
+. Auf Liste 'Ansicht' klicken
+. Auf image:../../Images/add.png[] klicken.
+. Gewünscht Ansicht auswählen.
+. Auf 'Ok' klicken.
+
+[.result]
+Ansicht wird auf dem Dashboard angezeigt.
+
+Note:: Fehlerbehebung, siehe xref:{docdir}/../Troubleshooting/Leere_Ansichten_im_Dashboard.adoc[Troubleshooting]
+
