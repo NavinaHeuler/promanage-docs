@@ -1,6 +1,0 @@
-= Was ist ProManage
-
-'ProManage' ist eine webbasierte Softwarelösung, die entwickelt wurde, um Teams bei der Planung, Durchführung und Überwachung von Projekten zu unterstützen. Die Software bietet eine Vielzahl von Funktionen, die es Projektmanagern ermöglichen, Aufgaben zu verteilen, Fristen zu setzen, Ressourcen zu verwalten und die Fortschritte in Echtzeit zu verfolgen.
-
-
-Weitere Informationen, siehe xref:_was_kann_promanage[Was kann ProManage]
