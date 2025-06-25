@@ -15,7 +15,7 @@
 *** xref:Troubleshooting/Ansicht_in_Auswahl_nicht_vorhanden.adoc[Auswahl nicht vorhanden]
 
 * Sachbearbeiter
-** xref:Sachbearbeiter:contentconcept.adoc[]
-** xref:Sachbearbeiter:contenttask.adoc[]
+** xref:Sachbearbeiter:concept/contentconcept.adoc[]
+** xref:Sachbearbeiter:task/contenttask.adoc[]
 
 
