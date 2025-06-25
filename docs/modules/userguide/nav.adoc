@@ -1,18 +1,18 @@
 * Promanage Dokumentation
-** xref:_was_ist_promanage[Einführung]
-** xref:_was_kann_promanage[Hauptfunktionen]
-** xref:fuer_wen_ist_ProManage.adoc[Zielgruppe]
+** xref:Concept/Was_ist_Promanage.adoc[Einführung]
+** xref:Concept/Was_kann_ProManage.adoc[Hauptfunktionen]
+** xref:Concept/Fuer_wen_ist_ProManage.adoc[Zielgruppe]
 
 * Aufgaben
-** xref:_erfassungsarten[Erfassungsarten]
-*** xref:Aufgabe erstellen[Aufgaben erstellen]
-*** xref:_ansicht_hinzufügen[Ansicht hinzufügen]
-** xref:_initialschätzung_setzen[Initialschätzung]
-*** xref:_workload_hinterlegen[Workload hinterlegen]
+** xref:Reference/Erfassungsarten.adoc[Erfassungsarten]
+*** xref:Task/Aufgabe_erstellen.adoc[Aufgaben erstellen]
+*** xref:Task/Ansicht_hinzufügen_oder_entfernen.adoc[Ansicht hinzufügen]
+** xref:Reference/Initialschätzung_setzen.adoc[Initialschätzung]
+*** xref:Task/Workload_hinterlegen.adoc[Workload hinterlegen]
 
 * Troubleshooting
-** xref:Leere Ansicht im Dashboard[Leere Ansicht im Dashboard]
-** xref:Auswahl nicht vorhanden[Auswahl nicht vorhanden]
+** xref:Troubleshooting/Leere_Ansichten_im_Dashboard.adoc[Leere Ansicht im Dashboard]
+** xref:Troubleshooting/Ansicht_in_Auswahl_nicht_vorhanden.adoc[Auswahl nicht vorhanden]
 
 
 
