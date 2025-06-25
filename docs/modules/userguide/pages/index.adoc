@@ -1,6 +1,6 @@
-= Benutzerhandbuch Promanage
+= Dokuportal Promanage
 
-Herzlich Willkommen im Benutzerhandbuch für Promanage.
+Herzlich Willkommen im Promanage Dokuportal.
 
 Das Benutzerhandbuch ist in folgende Themenbereiche gegliedert:
 

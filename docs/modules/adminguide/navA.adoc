@@ -1,0 +1,13 @@
+* Promanage Dokumentation
+** xref:Concept/Einfuehrung_Admin.adoc[Einführung]
+** xref:Concept/Was_ist_ein_Admin.adoc[Hauptfunktionen]
+** xref:Concept/Was_kann_ProManageAdmin.adoc[Zielgruppe]
+
+* Aufgaben
+** xref:Reference/Erfassungsarten_Admin.adoc[Erfassungsarten]
+*** xref:Task/Ansicht_Admin.adoc[Ansicht hinzufügen]
+** xref:Reference/Referenzen_fuer_Admin.adoc[Referenz]
+
+* Troubleshooting
+** xref:Troubleshooting/Troubleshooting_Admin.adoc[Leere Ansicht im Dashboard]
+
