@@ -1,8 +1,0 @@
-= Leere Ansicht im Dashboard
-
-[cols="3*"]
-|===
-|Fehler | Ursache | Abhilfe |
-Keine \*Ansicht* im Dashboard| Netzwerkfehler | Router neu starten |
-
-===|
