@@ -1,4 +1,4 @@
-* *Promanage Adminhandbuch*
+* *Promanage Admin Manual*
 *** xref:Concept/Einfuehrung_Admin.adoc[Einführung]
 *** xref:Concept/Was_ist_ein_Admin.adoc[Hauptfunktionen]
 *** xref:Concept/Was_kann_ProManageAdmin.adoc[Zielgruppe]

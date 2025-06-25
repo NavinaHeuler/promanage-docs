@@ -1,4 +1,4 @@
-* *Promanage Benutzerhandbuch*
+* *Promanage User Manual*
 ** xref:Concept/Was_ist_Promanage.adoc[Einführung]
 ** xref:Concept/Was_kann_ProManage.adoc[Hauptfunktionen]
 ** xref:Concept/Fuer_wen_ist_ProManage.adoc[Zielgruppe]
