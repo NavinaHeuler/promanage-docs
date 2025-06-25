@@ -1,0 +1,3 @@
+= Zielgruppe EN
+
+ProManage richtet sich an Projektmanager und Teams, die  Aufgaben zu verteilen, Fristen zu setzen, Ressourcen zu verwalten und die Fortschritte in Echtzeit zu verfolgen.

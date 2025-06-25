@@ -1,0 +1,20 @@
+* *Promanage Benutzerhandbuch*
+** xref:Concept/Was_ist_Promanage.adoc[Einführung]
+** xref:Concept/Was_kann_ProManage.adoc[Hauptfunktionen]
+** xref:Concept/Fuer_wen_ist_ProManage.adoc[Zielgruppe]
+
+** Aufgaben
+*** xref:Reference/Erfassungsarten.adoc[Erfassungsarten]
+**** xref:Task/Aufgabe_erstellen.adoc[Aufgaben erstellen]
+**** xref:Task/Ansicht_hinzufügen_oder_entfernen.adoc[Ansicht hinzufügen]
+*** xref:Reference/Initialschätzung_setzen.adoc[Initialschätzung]
+**** xref:Task/Workload_hinterlegen.adoc[Workload hinterlegen]
+
+** Troubleshooting
+*** xref:Troubleshooting/Leere_Ansichten_im_Dashboard.adoc[Leere Ansicht im Dashboard]
+*** xref:Troubleshooting/Ansicht_in_Auswahl_nicht_vorhanden.adoc[Auswahl nicht vorhanden]
+
+
+
+
+
