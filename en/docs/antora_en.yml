@@ -1,7 +1,7 @@
 name: docs
 title: Promanage Docs
 version: 20
-start_page: userguide:index.adoc
+start_page: userguide:index_en.adoc
 
 nav:
   - modules/userguide/nav_en.adoc
